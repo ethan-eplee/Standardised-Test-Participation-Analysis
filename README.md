@@ -3,7 +3,7 @@
  - [Problem Statement](#Problem-Statement) 
  - [Data Sources](#Data-Sources)
  - [Executive Summary](#Executive-Summary)
- - [Notebook Contents](Notebook-Contents)
+ - [Notebook Contents](#Notebook-Contents)
  - [Data Dictionary](#Data-Dictionary)
  - [Conclusion & Recommendations](#Conclusion-&-Recommendations)
 
@@ -117,7 +117,7 @@ Many findings on the SAT and ACT participation rates, as well as unemployment ra
 
 ---
 ## Conclusion & Recommendations 
-**Conclusions**
+**Conclusion**
 
 Although California has a high GDP per capita among the other states, it also has a high unemployment rate. California follows the trend of many other richer states in that it has higher participation rates in SAT than ACT test. However there is very little correlation to show that unemployment rate and test participation rate are actually related at the state level.
 
