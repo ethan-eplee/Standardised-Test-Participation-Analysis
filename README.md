@@ -1,11 +1,12 @@
 # Analysing ACT and SAT participation rates in California in 2019
 
- - [Problem Statement](#Problem-Statement)
+ - [Problem Statement](#Problem-Statement) 
+ - [Data Sources](#Data-Sources)
  - [Executive Summary](#Executive-Summary)
- - [ACT-SAT-CA-Participation.ipynb Contents](#ACT-SAT-CA-Participation.ipynb-Contents)
+ - [Notebook Contents](Notebook-Contents)
  - [Data Dictionary](#Data-Dictionary)
  - [Conclusion & Recommendations](#Conclusion-&-Recommendations)
- - [Data Sources](#Data-Sources)
+
 
 ## Problem Statement
 The SAT and ACT are standardized tests that many colleges and universities in the United States require for their admissions process. This score is used along with other materials such as grade point average (GPA) and essay responses to determine whether or not a potential student will be accepted to the university. 
@@ -70,7 +71,7 @@ Many findings on the SAT and ACT participation rates, as well as unemployment ra
 - Unemployment rates California vs national: The unemployment rates ranged from **2.1% to 5.5%**, with California at the higher end of the range at **4.1%**.
 - Participation rates for California counties: ACT participation rates range from **1% to 63%** while SAT participation rates range from **8% to 50%**. Gerenally, urban areas tend to have higher participaton rates in both test and favour SATs over ACTs, when compared with suburban and rural areas.
 
-### ACT-SAT-CA-Participation.ipynb Contents
+### Notebook Contents
 - Background
 - Data import and cleaning
 - Data Dictionary
@@ -116,6 +117,8 @@ Many findings on the SAT and ACT participation rates, as well as unemployment ra
 
 ---
 ## Conclusion & Recommendations 
+**Conclusions**
+
 Although California has a high GDP per capita among the other states, it also has a high unemployment rate. California follows the trend of many other richer states in that it has higher participation rates in SAT than ACT test. However there is very little correlation to show that unemployment rate and test participation rate are actually related at the state level.
 
 The correlation between test participation rates and unemployment rates at the county level in California is negative, but not very strong. After removing outliers, the correlation is **-0.38 for ACT and -0.36 for SAT**, yielding the same conclusion that one variable would be a poor predictor for the other.
