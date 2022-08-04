@@ -1,0 +1,52 @@
+,state,statecode,gdppercap,pop19,unemployrate,census,act17_part,act18_part,act19_part,sat17_part,sat18_part,sat19_part
+0,Alabama,AL,47147.0,4903185,3.2,East South Central,1.0,1.0,1.0,0.05,0.06,0.07
+1,Alaska,AK,74564.0,731545,5.5,Pacific,0.65,0.33,0.38,0.38,0.43,0.41
+2,Arizona,AZ,50832.0,7278717,4.9,Mountain,0.62,0.66,0.73,0.3,0.29,0.31
+3,Arkansas,AR,43356.0,3017804,3.5,West South Central,1.0,1.0,1.0,0.03,0.05,0.06
+4,California,CA,77258.0,39512223,4.1,Pacific,0.31,0.27,0.23,0.53,0.6,0.63
+5,Colorado,CO,68108.0,5758736,2.6,Mountain,1.0,0.3,0.27,0.11,1.0,1.0
+6,Connecticut,CT,80810.0,3565287,3.5,New England,0.31,0.26,0.22,1.0,1.0,1.0
+7,Delaware,DE,79118.0,973764,3.7,South Atlantic,0.18,0.17,0.13,1.0,1.0,1.0
+8,District of Columbia,DC,204613.0,705749,5.4,South Atlantic,0.32,0.32,0.32,1.0,0.92,0.94
+9,Florida,FL,51981.0,21477737,3.2,South Atlantic,0.73,0.66,0.54,0.83,0.56,1.0
+10,Georgia,GA,60071.0,10617423,3.6,South Atlantic,0.55,0.53,0.49,0.61,0.7,0.71
+11,Hawaii,HI,64823.0,1415872,2.5,Pacific,0.9,0.89,0.8,0.55,0.56,0.54
+12,Idaho,ID,46120.0,1787065,3.0,Mountain,0.38,0.36,0.31,0.93,1.0,1.0
+13,Illinois,IL,70273.0,12671821,4.0,East North Central,0.93,0.43,0.35,0.09,0.99,1.0
+14,Indiana,IN,56597.0,6732219,3.3,East North Central,0.35,0.32,0.29,0.63,0.63,0.66
+15,Iowa,IA,61591.0,3155070,2.6,West North Central,0.67,0.68,0.66,0.02,0.03,0.03
+16,Kansas,KS,60666.0,2913314,3.1,West North Central,0.73,0.71,0.72,0.04,0.04,0.04
+17,Kentucky,KY,48370.0,4467673,4.1,East South Central,1.0,1.0,1.0,0.04,0.04,0.04
+18,Louisiana,LA,54759.0,4648794,4.6,West South Central,1.0,1.0,1.0,0.04,0.04,0.05
+19,Maine,ME,50924.0,1344212,2.8,New England,0.08,0.07,0.06,0.95,0.99,0.99
+20,Maryland,MD,69737.0,6045680,3.4,South Atlantic,0.28,0.31,0.28,0.69,0.76,0.82
+21,Massachusetts,MA,86073.0,6892503,3.1,New England,0.29,0.25,0.21,0.76,0.8,0.81
+22,Michigan,MI,53213.0,9986857,4.1,East North Central,0.29,0.22,0.19,1.0,1.0,1.0
+23,Minnesota,MN,67919.0,5639632,3.4,West North Central,1.0,0.99,0.95,0.03,0.04,0.04
+24,Mississippi,MS,38551.0,2976149,5.4,East South Central,1.0,1.0,1.0,0.02,0.03,0.03
+25,Missouri,MO,54139.0,6137428,3.1,West North Central,1.0,1.0,0.82,0.03,0.04,0.04
+26,Montana,MT,48457.0,1068778,3.6,Mountain,1.0,1.0,1.0,0.1,0.1,0.09
+27,Nebraska,NE,67903.0,1934408,3.0,West North Central,0.84,1.0,1.0,0.03,0.03,0.03
+28,Nevada,NV,59005.0,3080156,4.0,Mountain,1.0,1.0,1.0,0.26,0.23,0.2
+29,New Hampshire,NH,64357.0,1359711,2.6,New England,0.18,0.16,0.14,0.96,0.96,0.95
+30,New Jersey,NJ,71991.0,8882190,3.4,Middle Atlantic,0.34,0.31,0.25,0.7,0.82,0.82
+31,New Mexico,NM,48631.0,2096829,4.9,Mountain,0.66,0.67,0.63,0.11,0.16,0.18
+32,New York,NY,91384.0,19453561,3.8,Middle Atlantic,0.31,0.27,0.22,0.67,0.79,0.79
+33,North Carolina,NC,56794.0,10488084,3.8,South Atlantic,1.0,1.0,1.0,0.49,0.52,0.51
+34,North Dakota,ND,77427.0,762062,2.1,West North Central,0.98,0.98,0.96,0.02,0.02,0.02
+35,Ohio,OH,59303.0,11689100,4.2,East North Central,0.75,1.0,1.0,0.12,0.18,0.19
+36,Oklahoma,OK,51479.0,3956971,3.1,West South Central,1.0,1.0,1.0,0.07,0.08,0.22
+37,Oregon,OR,58479.0,4217737,3.7,Pacific,0.4,0.42,0.42,0.43,0.48,0.51
+38,Pennsylvania,PA,62466.0,12801989,4.5,Middle Atlantic,0.23,0.2,0.17,0.65,0.7,0.7
+39,Rhode Island,RI,57883.0,1059361,3.6,New England,0.21,0.15,0.12,0.71,0.97,1.0
+40,South Carolina,SC,47519.0,5148714,2.8,South Atlantic,1.0,1.0,0.78,0.5,0.55,0.68
+41,South Dakota,SD,60973.0,884659,2.8,West North Central,0.8,0.77,0.75,0.03,0.03,0.03
+42,Tennessee,TN,55192.0,6829174,3.4,East South Central,1.0,1.0,1.0,0.05,0.06,0.07
+43,Texas,TX,64283.0,28995881,3.5,West South Central,0.45,0.45,0.39,0.62,0.66,0.68
+44,Utah,UT,60852.0,3205958,2.6,Mountain,1.0,1.0,1.0,0.03,0.04,0.04
+45,Vermont,VT,54692.0,623989,2.3,New England,0.29,0.24,0.2,0.6,0.64,0.66
+46,Virginia,VA,64941.0,8535519,2.8,South Atlantic,0.29,0.24,0.21,0.65,0.68,0.68
+47,Washington,WA,78514.0,7614893,4.3,Pacific,0.29,0.24,0.24,0.64,0.69,0.7
+48,West Virginia,WV,44159.0,1792147,4.9,South Atlantic,0.69,0.65,0.49,0.14,0.28,0.99
+49,Wisconsin,WI,59206.0,5822434,3.2,East North Central,1.0,1.0,1.0,0.03,0.03,0.03
+50,Wyoming,WY,68424.0,578759,3.7,Mountain,1.0,1.0,1.0,0.03,0.03,0.03
